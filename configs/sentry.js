@@ -1,0 +1,1 @@
+export const SENTRY_AUTH_URL = 'https://b5582d38e03a4be28e2305ba34e1af52@o426527.ingest.sentry.io/5368556';
